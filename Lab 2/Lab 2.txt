@@ -1,0 +1,7 @@
+Consider the “Game of Life” problem addressed in the LW-1. 
+Let the GRID be a square of size K^2. 
+Now, do the following: 
+1. Spawn multiple (N in number) OpenMP threads to execute the same  problem. Compare the results obtained with your own sequential code, for  correctness.  
+2. Change the value of N: the number of threads. At least six different values of  N. Observe the changes in execution time: T, of the application. Repeat this  by changing the size of the GRID for six different values. Tabulate the  observations. Can you explain the observations? Can you find relationships 
+between the N, K and T? 
+3. Let L be a number smaller than K. Such that K/L is a whole number. Now,  divide the GRID into multiple squares of (K/L)^2. Assign the computation of  one of these small squares to one of the N threads, you have spawned. Write  down your method of implementation, explain the OpenMP functions used  and present the results.

@@ -1,0 +1,14 @@
+Game of Life: Implement in MPI platform. 
+• Consider the Game of Life problem as given in the link below. • Design a Task Channel Model and develop the parallel solution.  • Implement your solution using MPI. 
+• Run the program instances on some of the data sets from the link  given below 
+• Comment on the efficiency of your program 
+• Comment on scalability of your program 
+
+The Link: 
+https://www.kaggle.com/c/conways-reverse-game-of-life-2020/data 
+
+Please note:  
+• The link points to a challenge where the issue is to train models. 
+• We are not attempting that. We are interested in a MPI program  working efficiently which is scalable. You may need to use more than  one data set to work upon. This link would help. 
+• Link is used to define the problem and for you to download data sets.
+ • You may also use the link to draw ideas and inspirations

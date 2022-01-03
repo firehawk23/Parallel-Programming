@@ -1,0 +1,5 @@
+Write a sequential C code for performing back substitution to solve a linear  system. Check for correctness.  
+Convert this to a parallel program: 
+a) Using OpenMP 
+b) Using MPI
+Check for correctness based on the results obtained for the sequential code. Benchmark the parallel program.

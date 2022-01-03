@@ -1,0 +1,8 @@
+Write sequential code to perform Matrix Multiplication (square matrices) in  following two different ways: 
+a. Iterative Row wise Multiplication 
+b. Recursive Block wise Multiplication 
+Now do the following: 
+1. Record the execution time for various size of Matrix. 
+2. Report a qualitative comparison of the two methods based on the  performance of your codes. 
+3. What can be concluded regarding the relationship of memory size and execution time, across the memory hierarchy? 
+4. List the learnings from this work.

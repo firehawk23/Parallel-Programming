@@ -1,0 +1,6 @@
+Refer to the following document, OpenMP descriptions
+Write a code each to demonstrate your understanding of the topics described
+under the headings:
+a) 2.8.3
+b) 2.8.5
+c) 2.8.6

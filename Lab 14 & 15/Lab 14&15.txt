@@ -1,0 +1,11 @@
+Consider Radix Sort, Bubble Sort, Insertion Sort, Binary Sort algorithms or any other  sorting algorithm known to you that sorts by comparison. 
+Implement any one of these algorithms in  
+• OpenMP  
+• MPI 
+Carry out a study on the  
+• Execution time complexity 
+• Communication time complexity 
+• Scalability 
+• other performance metrics that you have studied so far. 
+Report your study and the conclusions. 
+List the learnings from this work.

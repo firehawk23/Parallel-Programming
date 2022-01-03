@@ -1,0 +1,3 @@
+﻿Execute the sequential and parallel programs for evaluating Pi. 
+Sketch of the programs given below. 
+Record your observations and results obtained for various No. of threads used and the various size of grid(No. of rectangles) used to evaluate.

@@ -1,0 +1,6 @@
+Consider the Sieve of Eratosthenes algorithm for prime numbers. 
+1. Implement it using OpenMP. 
+        a. Check the performance for changing number of threads. 
+        b. Plot graphs and draw inferences. 
+2. Execute the MPI program given in the text book. Benchmark the program.
+3. List your learnings.
